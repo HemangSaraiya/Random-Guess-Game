@@ -1,0 +1,36 @@
+body{
+  
+    background:linear-gradient(cyan,rgb(0, 128, 117))center/cover no-repeat fixed;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    color: chartreuse;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 2px solid black;
+    text-shadow: 2px 2px 2px blue;
+}
+#display{
+    margin-left: 648px;
+    background-color:chocolate;
+    width: 210px;
+    height: 210px;
+    font-size: 5rem;
+    color: aquamarine;
+    border: 5px solid rgba(224, 146, 51, 0.536);
+}
+#btncontainer{
+    text-align: center;
+    margin-top: 5px;
+   
+}
+.btn{
+    background-color: rgb(46, 191, 97);
+    font-size: 1.2rem;
+    border-radius: 5px;
+    padding: 10px;
+}
+.btn:hover{
+    background-color: rgb(21, 225, 35);
+}
