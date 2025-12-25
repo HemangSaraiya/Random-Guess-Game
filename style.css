@@ -11,8 +11,15 @@ h1{
     border: 2px solid black;
     text-shadow: 2px 2px 2px blue;
 }
+.dis-cont{
+
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
 #display{
-    margin-left: 648px;
+    
     background-color:chocolate;
     width: 210px;
     height: 210px;
